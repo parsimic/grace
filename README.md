@@ -1,4 +1,4 @@
-# Grace — a plugin for Claude Code
+Grace — a plugin for Claude Code
 
 **Work with Claude as usual. Your limit lasts longer.**
 
